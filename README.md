@@ -17,18 +17,20 @@ This repository is organized into different sections, with each containing Jupyt
 - K-Nearest Neighbors Regression
 - Ridge and Lasso Regression
 - SVM Regressor
-- Other algorithms are in progress…..
+- Other algorithms are in progress....
 
 **Classification:** Notebooks contributed of classification algorithms such as Logistic Regression, Support Vector Machines (SVM), and Decision Trees. The section covers the theoretical underpinnings of each algorithm and demonstrates their application in solving classification problems. The models in this repository include:
 
 - Logistics Regression (Binary Classification)
 - Logistics Regression (Multi Class Classification)
 - Decision Tree Regression and Extra Tree Classifier
-- K-Nearest Neighbors Classifier
+- K-Nearest Neighbors
 - SVM Classifier
-- Other algorithms are in progress…..
+- Naive Bayes
+- Ridge Classifier
+- Other algorithms are in progress....
 	
-### Unsupervised Learning (in progress…)
+### Unsupervised Learning (in progress....)
 
 **Clustering:** Notebooks exploring clustering techniques like K-Means and Hierarchical Clustering, complete with theory and practical examples. 
 
@@ -55,9 +57,9 @@ A section dedicated to the fundamentals of neural networks and implementation de
 - RNN Time Series Forecast (Tensorsflow)
 - CNN (Pytorch)
 - CNN (Tensorsflow)
-- Other neural network architectures are in progress...
+- Other neural network architectures are in progress....
 
-### Reinforcement Learning (in progress…)
+### Reinforcement Learning (in progress....)
 
 An introduction to the core concepts and theories of reinforcement learning unti more complex models, with examples and simulations.
 
