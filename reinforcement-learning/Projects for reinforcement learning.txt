@@ -1,0 +1,16 @@
+Projects for reinforcement learning are coming soon...
+
+Foundational Algorithms
+- Q-Learning
+- SARSA (State-Action-Reward-State-Action)
+- Monte Carlo Methods
+
+Classic Control Problems
+- Acrobot or Pendulum
+- Deep Q-Learning (DQN)
+- Policy Gradient Methods
+- Actor-Critic Methods
+
+Complex Environments & Simulations:
+- Robotics Simulation
+- Stock Trading Agent

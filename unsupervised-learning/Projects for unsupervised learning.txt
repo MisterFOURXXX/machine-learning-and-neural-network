@@ -1,0 +1,60 @@
+Projects for unsupervised learning are coming soon...
+
+Clustering 
+- K-means
+- Affinity Propagation
+- Mean Shift
+- Spectral Clustering
+- Hierarchical Clustering
+- DBSCAN
+- HDBSCAN
+- OPTICS
+- BIRCH
+- Clustering Performance Evaluation
+
+Biclustering 
+- Spectral Co-Clustering
+- Spectral Biclustering
+- Biclustering Evaluation
+
+Gaussian Mixture Models 
+- Gaussian Mixture
+- Variational Bayesian Gaussian Mixture
+
+Manifold Learning 
+- Isomap
+- Locally Linear Embedding
+- Modified Locally Linear Embedding
+- Hessian Eigenmapping
+- Spectral Embedding
+- Local Tangent Space Alignment
+- Multi-dimensional Scaling (MDS)
+- t-distributed Stochastic Neighbor Embedding (t-SNE)
+- Tips on Practical Use
+
+Decomposing Signals (Matrix Factorization) 
+- Principal Component Analysis (PCA)
+- Kernel Principal Component Analysis (kPCA)
+- Truncated Singular Value Decomposition and Latent Semantic Analysis
+- Dictionary Learning
+- Factor Analysis
+- Independent Component Analysis (ICA)
+- Non-negative Matrix Factorization (NMF or NNMF)
+- Latent Dirichlet Allocation (LDA)
+- Curse of Dimensionality
+
+Neural Network Models (Unsupervised) 
+- Restricted Boltzmann Machines
+
+Unsupervised Dimensionality Reduction 
+- PCA: Principal Component Analysis
+- Random Projections
+- Feature Agglomeration
+- NeighborhoodComponentsAnalysis
+
+Random Projection 
+- The Johnson-Lindenstrauss Lemma
+- Gaussian Random Projection
+- Sparse Random Projection
+- Inverse Transform
+
