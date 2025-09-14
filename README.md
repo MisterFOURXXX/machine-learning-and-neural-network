@@ -1,6 +1,6 @@
-## Machine Learning
+## Machine Learning and Neural Network
 
-This repository serves as a personal learning hub and collection of projects focused on Machine Learning. It encompasses foundational concepts, theoretical implementations, practical applications, and exploratory data analysis using various machine learning algorithms and techniques.
+This repository contains a collection of projects focused on machine learning algorithms and neural networks that consist of supervised learning, unsupervised learning, reinforcement learning, and neural networks. Each project explores and covers foundational concepts, theoretical implementations, and practical applications using various algorithms and techniques.
 
 ## Overview
 
